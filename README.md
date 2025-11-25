@@ -73,6 +73,7 @@ Enviar diretamente para outro usuário:
 /msg joao tudo bem?
 
 Casos de Teste
+
 1. Broadcast com múltiplos clientes
 
 Cenário:

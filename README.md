@@ -2,9 +2,9 @@ Mini Chat TCP
 
 EQUIPE:
 
-Layza Nicolle 
-Bárbara Luiza
-Matheus Pablo
+Layza Nicolle, 
+Bárbara Luiza,
+Matheus Pablo,
 Vinicius Simas
 
 Este projeto implementa um sistema de chat simples utilizando sockets TCP, composto por um servidor e um cliente executados via terminal. O servidor gerencia conexões simultâneas, controla apelidos, realiza broadcast de mensagens e permite mensagens privadas. O cliente se conecta ao servidor, registra um apelido e envia mensagens conforme o protocolo definido.
